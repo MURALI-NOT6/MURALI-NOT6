@@ -7,7 +7,7 @@ developing and testing multiple web-based applications incorporating a range of 
 <h3></h3>
 <p>
   
-   <img width="30px" height="30px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/html.png"/>
+   <img width="60px" height="60px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/html.png"/>
 
 </p>
  
