@@ -4,7 +4,7 @@
 developing and testing multiple web-based applications incorporating a range of technologies.
 
 <hr>
-<h3>Languages and Tools</h3>
+<h3>🧰 Languages and Tools</h3>
 <p>   
    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> 
