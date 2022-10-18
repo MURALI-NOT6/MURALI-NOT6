@@ -5,6 +5,10 @@ developing and testing multiple web-based applications incorporating a range of 
 
 <hr>
 
-<h3>https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/html.png</h3>
+<p>
+   <img src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/html.png"/>
+
+</p>
+ 
 
 
