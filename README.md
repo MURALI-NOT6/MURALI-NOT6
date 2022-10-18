@@ -15,7 +15,7 @@ developing and testing multiple web-based applications incorporating a range of 
    <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
    <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>   
    <img width="60px" height="60px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/sass/sass-original.svg"/>  
-
+   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/bootstrap/bootstrap-plain-wordmark.svg"/>  
 </p>
  
 
