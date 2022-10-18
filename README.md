@@ -8,7 +8,8 @@ developing and testing multiple web-based applications incorporating a range of 
 <p>
   
    <img width="60px" height="60px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/html.png"/>
-
+   <img width="60px" height="60px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/css.png"/>
+ 
 </p>
  
 
