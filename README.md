@@ -5,10 +5,9 @@ developing and testing multiple web-based applications incorporating a range of 
 
 <hr>
 <h3>Language and Tools</h3>
-<p>
-   
-   <img width="60px" height="60px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/css.png"/>
- 
+<p>   
+   <img width="60px" height="60px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/html.png"/>
+   <img width="60px" height="60px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/css.png"/> 
 </p>
  
 
