@@ -13,7 +13,7 @@ developing and testing multiple web-based applications incorporating a range of 
     <img width="80px" height="50px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/wordpress/wordpress-original.svg"/>   
    <img width="80px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
    <img width="80px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/> 
-   <img width="50px" height="50px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/flutter.png"/> 
+   <img width="40px" height="50px" src="https://github.com/MURALI-NOT6/MURALI-NOT6/blob/main/flutter.png"/> 
    <img width="80px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
    <img width="80px" height="50px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/sass/sass-original.svg"/>   
    <img width="80px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>   
